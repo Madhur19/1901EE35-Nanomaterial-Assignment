@@ -5,9 +5,7 @@
 ## Students
 | Names            | Roll No. |
 |------------------|----------|
-| M. Maheeth Reddy | 1801CS31 |
-| M. Nitesh Reddy  | 1801CS32 |
-| Nischal A        | 1801CS33 |
+| Madhur Jain | 1901EE35 |
 
 ## Project Link
 [Click here](http://nano-mnn.herokuapp.com/) to view the project
@@ -65,10 +63,3 @@ After the user gives the inputs, the application will apply the appropriate form
 Finally, a graph is plotted with these percentages on the Y-axis and particle sizes on the X-axis.
 
 ![alt text](./images/graph_ss.png "Screenshot of Graph for Cuboctahedral shape")
-
-### Contributions
-| Names            | Roll No. | Contribution |
-|------------------|----------|--------------|
-| M. Maheeth Reddy | 1801CS31 | JavaScript   |
-| M. Nitesh Reddy  | 1801CS32 | HTML         |
-| Nischal A        | 1801CS33 | CSS          |
