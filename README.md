@@ -3,7 +3,7 @@
 **Note**: Open [index.html](./index.html) in browser to view the project from this folder, otherwise [click here](https://madhur19.github.io/1901EE35-Nanomaterial-Assignment/)
 
 ## Student
-| Names            | Roll No. |
+| Name            | Roll No. |
 |------------------|----------|
 | Madhur Jain | 1901EE35 |
 
